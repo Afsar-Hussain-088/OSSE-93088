@@ -1,6 +1,6 @@
 import java.io.*;
 
-public static FactorialApplication {
+public class FactorialApplication {
   static int factorial(int num) { 
     if (num == 1)
       return 1;
